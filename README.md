@@ -11,7 +11,6 @@ The student's edits and explorations contain references to fictional characters/
 Problems completed by the student have been recompiled and revised in the 'Problem' Notebooks, while all original attempts, notes, and lesson materials are found in the 'Lecture' Notebooks.
 
 __Goals for this repository:__
- - Clean up and annotate code so that a complete beginner can modify and use it with full comprehension
  - Break notebooks into smaller notebooks by section / topic
  - These notebooks are intended to form the basis for a guide to using Python for upper division undergraduate applied mathematics in the sciences.
 
