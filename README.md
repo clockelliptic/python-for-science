@@ -1,5 +1,9 @@
 # Matter and Motion Spring 2018
 
+Click to Render with MyBinder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clockelliptic/Spring18_Python_Study/master)
+
+
 In each sequential folder one or more files can be found. Each notebook contains course material and work completed by the student. The problems and challenges for each lesson have been worked and then revised. There may be other files, such as images and spreadsheets which are used in the notebooks. These can ignored.
 
 To give an accurate scope of the work done by the student, all of the code examples *were provided by the instructors, but most have been significantly modified and explored line-by-line by the student*. The problems were completed by the student, obviously.  The student also made their own edits, adjustments, and additions to the provided content, including some image and spreadsheet files.
