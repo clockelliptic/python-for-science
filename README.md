@@ -17,6 +17,3 @@ Problems completed by the student have been recompiled and revised in the 'Probl
 __Goals for this repository:__
  - Break notebooks into smaller notebooks by section / topic
  - These notebooks are intended to form the basis for a guide to using Python for upper division undergraduate applied mathematics in the sciences. They are meant to be followed in a linear, sequential fashion.
-
-
-*Most files will be too large to render in browser.*
