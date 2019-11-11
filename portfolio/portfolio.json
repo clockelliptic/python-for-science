@@ -1,13 +1,15 @@
 {
-    "title":"",
-    "description":"",
+    "title":"Python for Science",
+    "description":"Jupyter Python Notebooks: 10 weeks of curriculum including calculus, statistics, linear algebra, data plotting, data structures, and control structures.",
     "tags":{
        "languages":[
-          "",
+          "python",
        ],
        "tooling":[
+          "pandas", "numpy", "matplotlib"
        ],
        "keywords":[
+          "data", "science", "mathematics", "calculus", "statistics", "visualization"
        ]
     },
     "n_images":7
