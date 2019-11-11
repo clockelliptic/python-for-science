@@ -3,7 +3,7 @@
     "description":"Jupyter Python Notebooks: 10 weeks of curriculum including calculus, statistics, linear algebra, data plotting, data structures, and control structures.",
     "tags":{
        "languages":[
-          "python",
+          "python"
        ],
        "tooling":[
           "pandas", "numpy", "matplotlib"
